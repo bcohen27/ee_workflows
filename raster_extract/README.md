@@ -86,12 +86,12 @@ Arguments:
   
   -c, --column, default=gde: An feature identifying column that will appear in CSV
   
-  -y, --year, default=2018: A start date, only used when the image can be crated for a time range
+  -y, --year, default=2018: A start date, only used when the image can be created for a time range
   
   -h, --help: simple help
 
 
-If you want to store the resulting output to a file use a simple carrot (```>```):
+If you want to store the resulting output to a file use a simple caret (```>```):
 
 ```
 python simple.py -f example.shp > output.csv
